@@ -100,3 +100,81 @@ QA Automation Engineer focused on:
 ---
 
 ⭐ If you find this repository useful, consider giving it a star.
+
+---
+
+## Learning Resources
+
+The knowledge documented in this repository is based on continuous study of **software testing, quality engineering and automation practices**.
+
+Below are some of the main resources used during this learning journey.
+
+### Test Automation
+
+Cypress Documentation  
+https://docs.cypress.io
+
+Cucumber BDD  
+https://cucumber.io/docs/
+
+Selenium Documentation  
+https://www.selenium.dev/documentation/
+
+Test Automation University  
+https://testautomationu.applitools.com
+
+---
+
+### Software Testing
+
+Ministry of Testing  
+https://www.ministryoftesting.com
+
+ISTQB Foundation Level Syllabus  
+https://www.istqb.org
+
+Software Testing Help  
+https://www.softwaretestinghelp.com
+
+---
+
+### Quality Engineering
+
+Google Testing Blog  
+https://testing.googleblog.com
+
+ThoughtWorks Technology Radar  
+https://www.thoughtworks.com/radar
+
+Martin Fowler Engineering Blog  
+https://martinfowler.com
+
+---
+
+### CI/CD and DevOps
+
+GitHub Actions Documentation  
+https://docs.github.com/en/actions
+
+Docker Documentation  
+https://docs.docker.com
+
+Continuous Delivery  
+https://continuousdelivery.com
+
+---
+
+### Programming and Development
+
+MDN Web Docs (JavaScript)  
+https://developer.mozilla.org
+
+Clean Code – Robert C. Martin  
+https://www.oreilly.com/library/view/clean-code/9780136083238/
+
+Refactoring – Martin Fowler  
+https://martinfowler.com/books/refactoring.html
+
+---
+
+These resources help guide the development of skills in **automation engineering, test strategy and quality engineering practices**.
