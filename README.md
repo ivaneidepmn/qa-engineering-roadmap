@@ -1,17 +1,16 @@
-```markdown
 # QA Engineering Roadmap
 
 <p align="center">
-  <img src="assets/qa-engineering-roadmap-banner.png" width="900">
+  <img src="assets/qa-engineering-roadmap-banner.png" alt="QA Engineering Roadmap Banner" width="900">
 </p>
 
-This repository documents my learning journey in **Quality Engineering, Test Automation and QA Architecture**.
-
-The goal of this project is to organize knowledge, experiments and documentation related to **QA Engineering practices and automation strategies**.
+<p align="center">
+  Documentation of my learning journey in <strong>Quality Engineering, Test Automation and QA Architecture</strong>.
+</p>
 
 ---
 
-# Purpose of This Repository
+## Purpose of This Repository
 
 This repository works as a **QA Engineering knowledge base**.
 
@@ -23,14 +22,14 @@ It contains documentation about:
 - Testing strategies
 - Career roadmap in Quality Engineering
 
-The objective is to evolve from **test automation practitioner to Quality Engineering professional**.
+The objective is to evolve from **test automation practitioner** to **Quality Engineering professional**.
 
 ---
 
-# Test Pyramid
+## Test Pyramid
 
 <p align="center">
-  <img src="diagrams/test-pyramid.png" width="700">
+  <img src="diagrams/test-pyramid.png" alt="Test Pyramid" width="700">
 </p>
 
 The **Test Pyramid** represents the ideal balance between different types of automated tests.
@@ -46,35 +45,20 @@ Validate complete user flows through the interface.
 
 Following the test pyramid helps maintain **fast, stable and scalable automation suites**.
 
+---
+
 ## Repository Structure
 
+- `assets/` → repository banner and visual assets
+- `diagrams/` → technical diagrams such as the test pyramid
+- `career-roadmap/` → career planning and learning evolution
+- `automation/` → documentation about UI, API and data-driven automation
+- `frameworks/` → notes about automation framework architecture
+- `ci-cd/` → CI/CD documentation and pipeline notes
 
-qa-engineering-roadmap/
-├── assets/
-│ └── qa-engineering-roadmap-banner.png
-│
-├── diagrams/
-│ └── test-pyramid.png
-│
-├── career-roadmap/
-│ ├── qa-learning-roadmap.md
-│ ├── qa-skills-progress.md
-│ ├── courses-and-certifications.md
-│ └── career-goals.md
-│
-├── automation/
-│ ├── ui-automation.md
-│ ├── api-testing.md
-│ ├── data-driven-tests.md
-│ └── test-design-techniques.md
-│
-├── frameworks/
-├── ci-cd/
-│
-└── README.md
-# Topics Covered
+---
 
-This repository includes documentation about:
+## Topics Covered
 
 ### Test Automation
 Automation strategies and tools used in modern software testing.
@@ -93,25 +77,24 @@ Quality-focused engineering mindset and practices.
 
 ---
 
-# Related Project
+## Related Project
 
 Main automation framework project:
 
-QA Automation Cypress Framework
-
+**QA Automation Cypress Framework**  
 https://github.com/ivaneidepmn/qa-automation-cypress-framework
 
 ---
 
-# Author
+## Author
 
-Ivaneide Monteiro
+**Ivaneide Monteiro**
 
 QA Automation Engineer focused on:
 
-Test Automation  
-Quality Engineering  
-CI/CD Pipelines
+- Test Automation
+- Quality Engineering
+- CI/CD Pipelines
 
 ---
 
