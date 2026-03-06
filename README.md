@@ -99,8 +99,6 @@ QA Automation Engineer focused on:
 
 ---
 
----
-
 ## Learning Resources
 
 The knowledge documented in this repository is based on continuous study of **software testing, quality engineering and automation practices**.
