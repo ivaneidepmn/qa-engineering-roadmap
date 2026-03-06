@@ -49,36 +49,29 @@ Following the test pyramid helps maintain **fast, stable and scalable automation
 ## Repository Structure
 
 
-qa-engineering-roadmap
+qa-engineering-roadmap/
+├── assets/
+│ └── qa-engineering-roadmap-banner.png
 │
-├─ assets
-│   └─ qa-engineering-roadmap-banner.png
+├── diagrams/
+│ └── test-pyramid.png
 │
-├─ diagrams
-│   └─ test-pyramid.png
+├── career-roadmap/
+│ ├── qa-learning-roadmap.md
+│ ├── qa-skills-progress.md
+│ ├── courses-and-certifications.md
+│ └── career-goals.md
 │
-├─ career-roadmap
-│   ├─ qa-learning-roadmap.md
-│   ├─ qa-skills-progress.md
-│   ├─ courses-and-certifications.md
-│   └─ career-goals.md
+├── automation/
+│ ├── ui-automation.md
+│ ├── api-testing.md
+│ ├── data-driven-tests.md
+│ └── test-design-techniques.md
 │
-├─ automation
-│   ├─ ui-automation.md
-│   ├─ api-testing.md
-│   ├─ data-driven-tests.md
-│   └─ test-design-techniques.md
+├── frameworks/
+├── ci-cd/
 │
-├─ frameworks
-│
-├─ ci-cd
-│
-└─ README.md
-
-```
-
----
-
+└── README.md
 # Topics Covered
 
 This repository includes documentation about:
