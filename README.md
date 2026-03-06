@@ -99,8 +99,6 @@ QA Automation Engineer focused on:
 
 ---
 
-⭐ If you find this repository useful, consider giving it a star.
-
 ---
 
 ## Learning Resources
@@ -108,6 +106,8 @@ QA Automation Engineer focused on:
 The knowledge documented in this repository is based on continuous study of **software testing, quality engineering and automation practices**.
 
 Below are some of the main resources used during this learning journey.
+
+---
 
 ### Test Automation
 
@@ -178,3 +178,5 @@ https://martinfowler.com/books/refactoring.html
 ---
 
 These resources help guide the development of skills in **automation engineering, test strategy and quality engineering practices**.
+
+⭐ If you find this repository useful, consider giving it a star.
