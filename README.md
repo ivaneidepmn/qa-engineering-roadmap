@@ -1,7 +1,3 @@
-Perfeito. Vou te entregar **o README completo já organizado**, com:
-
-# README.md (copiar e colar)
-
 ```markdown
 # QA Engineering Roadmap
 
@@ -50,11 +46,8 @@ Validate complete user flows through the interface.
 
 Following the test pyramid helps maintain **fast, stable and scalable automation suites**.
 
----
+## Repository Structure
 
-# Repository Structure
-
-```
 
 qa-engineering-roadmap
 │
