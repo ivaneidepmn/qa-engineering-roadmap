@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Documentation of my learning journey in <strong>Quality Engineering, Test Automation and QA Architecture</strong>.
+Documentation of my learning journey in <strong>Quality Engineering, Test Automation and QA Architecture</strong>.
 </p>
 
 ---
@@ -29,7 +29,7 @@ The objective is to evolve from **test automation practitioner** to **Quality En
 ## Test Pyramid
 
 <p align="center">
-  <img src="diagrams/test-pyramid.png" alt="Test Pyramid" width="700">
+  <img src="diagrams/test-pyramid.png" alt="Test Pyramid Diagram" width="700">
 </p>
 
 The **Test Pyramid** represents the ideal balance between different types of automated tests.
@@ -49,12 +49,12 @@ Following the test pyramid helps maintain **fast, stable and scalable automation
 
 ## Repository Structure
 
-- `assets/` → repository banner and visual assets
-- `diagrams/` → technical diagrams such as the test pyramid
-- `career-roadmap/` → career planning and learning evolution
-- `automation/` → documentation about UI, API and data-driven automation
-- `frameworks/` → notes about automation framework architecture
-- `ci-cd/` → CI/CD documentation and pipeline notes
+- `assets/` → repository banner and visual assets  
+- `diagrams/` → technical diagrams such as the test pyramid  
+- `career-roadmap/` → career planning and learning evolution  
+- `automation/` → documentation about UI, API and data-driven automation  
+- `frameworks/` → notes about automation framework architecture  
+- `ci-cd/` → CI/CD documentation and pipeline notes  
 
 ---
 
@@ -81,7 +81,8 @@ Quality-focused engineering mindset and practices.
 
 Main automation framework project:
 
-**QA Automation Cypress Framework**  
+**QA Automation Cypress Framework**
+
 https://github.com/ivaneidepmn/qa-automation-cypress-framework
 
 ---
@@ -92,9 +93,9 @@ https://github.com/ivaneidepmn/qa-automation-cypress-framework
 
 QA Automation Engineer focused on:
 
-- Test Automation
-- Quality Engineering
-- CI/CD Pipelines
+- Test Automation  
+- Quality Engineering  
+- CI/CD Pipelines  
 
 ---
 
